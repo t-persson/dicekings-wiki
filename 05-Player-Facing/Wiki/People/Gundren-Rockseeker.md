@@ -6,7 +6,7 @@ status: final
 audience: player
 tags: [type/npc, status/final, spoiler/player-safe]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-10-28
 ---
 
 # Gundren Rockseeker

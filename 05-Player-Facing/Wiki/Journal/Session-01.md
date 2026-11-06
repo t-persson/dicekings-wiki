@@ -9,12 +9,14 @@ date: 2026-10-13
 played: true
 tags: [type/session, status/final, spoiler/player-safe]
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 # Journal: The Road Out of Neverwinter
 
 *Written by one of the hired escorts, from the road.*
+
+**In-world date:** 13–15 Tarsakh, 1491 DR
 
 In [[05-Player-Facing/Wiki/Locations/Neverwinter|Neverwinter]] we met [[05-Player-Facing/Wiki/People/Gundren-Rockseeker|Gundren Rockseeker]] and agreed to see his supply wagon to Phandalin. Rolph took the reins. Skarn started a game of dice in the back, and before long the rest of us had joined in. Two days went by on the road, and we kept watches at night.
 
