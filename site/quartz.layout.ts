@@ -2,6 +2,18 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import SessionSelector from "./quartz/components/SessionSelector"
 
+const wikiExplorer = () =>
+  Component.Explorer({
+    filterFn: (node) => node.slugSegment !== "tags",
+    mapFn: (node) => {
+      if (node.slug === "index") {
+        const playerFacing = node.children.find((child) => child.slugSegment === "05-Player-Facing")
+        const wiki = playerFacing?.children.find((child) => child.slugSegment === "Wiki")
+        node.children = wiki ? wiki.children : []
+      }
+    },
+  })
+
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
@@ -30,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    wikiExplorer(),
   ],
   right: [
     Component.Graph(),
@@ -51,7 +63,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    wikiExplorer(),
   ],
   right: [],
 }
