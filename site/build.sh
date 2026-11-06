@@ -16,13 +16,14 @@ export WIKI_SESSIONS
 WIKI_SESSIONS="$(printf '%s\n' "${sessions[@]}" | node -e 'let s=""; process.stdin.on("data", c => s += c); process.stdin.on("end", () => console.log(JSON.stringify(s.trim() ? s.trim().split("\n") : [])))')"
 
 mkdir "$temp/current"
-cp "$wiki/index.md" "$temp/current/index.md"
 cp -R "$wiki/05-Player-Facing" "$temp/current/"
+cp "$temp/current/05-Player-Facing/Wiki/Wiki-Home.md" "$temp/current/index.md"
 WIKI_SESSION="" npx quartz build -d "$temp/current" -o public
 
 for session in "${sessions[@]}"; do
   mkdir "$temp/$session"
-  git -C "$wiki" archive "$session" index.md 05-Player-Facing |
+  git -C "$wiki" archive "$session" 05-Player-Facing |
     tar -x -C "$temp/$session"
+  cp "$temp/$session/05-Player-Facing/Wiki/Wiki-Home.md" "$temp/$session/index.md"
   WIKI_SESSION="$session" npx quartz build -d "$temp/$session" -o "public/sessions/$session"
 done
