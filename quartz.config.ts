@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "t-persson.github.io/dicekings-wiki",
+    baseUrl: `t-persson.github.io/dicekings-wiki${process.env.WIKI_SESSION ? `/sessions/${process.env.WIKI_SESSION}` : ""}`,
     ignorePatterns: [".obsidian"],
     defaultDateType: "modified",
     theme: {
