@@ -6,7 +6,7 @@ status: final
 audience: player
 tags: [type/event, status/final, spoiler/player-safe]
 created: 2026-10-25
-updated: 2026-10-28
+updated: 2026-11-05
 ---
 
 # The Missing Riders
@@ -20,6 +20,8 @@ updated: 2026-10-28
 
 **Followed lead:** The escorts went north through the woods and reached the [[05-Player-Facing/Wiki/Locations/Forest-Cave|Forest Cave]], where they defeated goblin lookouts. They have since explored deeper, fought goblins, wolves and a bugbear, and crossed a bridge to another goblin cave. The [[05-Player-Facing/Wiki/Journal/Session-02|second journal entry]] ends as a new encounter begins there.
 
-**Still unknown:** Neither rider's whereabouts or condition has been established. The search inside the cave is unfinished.
+**Found alive:** Sildar was held in the goblin den beyond the bridge. A boss dropped him from a ledge during the fight; he nearly died but survived. The [[05-Player-Facing/Wiki/Journal/Session-03|third journal entry]] records his rescue. The party agreed to escort him to Phandalin.
+
+**Still unknown:** Gundren's whereabouts and condition remain unknown. Sildar mentioned [[05-Player-Facing/Wiki/Lore/Gundrens-Map|Gundren's map]], but the party did not ask further; the map is also missing.
 
 Back to the [[05-Player-Facing/Wiki/Wiki-Home|Wiki index]].

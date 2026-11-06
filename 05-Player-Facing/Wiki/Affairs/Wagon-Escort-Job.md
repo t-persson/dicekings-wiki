@@ -6,7 +6,7 @@ status: final
 audience: player
 tags: [type/affair, status/final, spoiler/player-safe]
 created: 2026-10-25
-updated: 2026-10-28
+updated: 2026-11-05
 ---
 
 # The Wagon Escort Job
@@ -18,9 +18,9 @@ updated: 2026-10-28
 
 **Agreed payment:** Ten gold pieces per escort upon safe delivery. Gundren and [[05-Player-Facing/Wiki/People/Sildar-Hallwinter|Sildar]] rode ahead.
 
-**Latest word:** The escorts left the wagon's animals tethered at the roadside while they looked into the riders' disappearance. The wagon has not reached Phandalin, and no payment has been made.
+**Latest word:** After leaving the cave, the escorts checked on the wagon, oxen and horses; everything was there and okay. They headed to Phandalin and stopped just before entering. Delivery is not yet complete, and no payment has been made.
 
-**Unsettled:** Nobody yet knows how the escorts will keep their commitment to the delivery while the riders remain missing.
+**Unsettled:** Sildar has been rescued, and the escorts agreed to take him to Phandalin. The containers left in the cave have not been recovered. Gundren remains missing.
 
 ## The Notice
 *A crisp parchment sheet pinned with an iron tack to the bulletin boards of the Moonstone Mask, the Driftwood Tavern, and the South Gate trade yards in Neverwinter.*

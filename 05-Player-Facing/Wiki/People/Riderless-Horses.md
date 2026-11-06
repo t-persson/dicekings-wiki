@@ -6,7 +6,7 @@ status: final
 audience: player
 tags: [type/monster, status/final, spoiler/player-safe]
 created: 2026-10-25
-updated: 2026-10-28
+updated: 2026-11-05
 ---
 
 # Riderless Horses
@@ -18,6 +18,6 @@ Two living horses stood among scattered gear at the [[05-Player-Facing/Wiki/Loca
 
 Groot Thornmark used *Speak with Animals* to question them. One ignored him; the other became distressed and said that [[05-Player-Facing/Wiki/People/Sildar-Hallwinter|Sildar]] and a dwarf had been taken into the forest.
 
-Both horses and the [[05-Player-Facing/Wiki/People/Wagon-Oxen|wagon oxen]] were tethered to trees before the escorts followed the trail. The horse's word remains the lead behind the search for the [[05-Player-Facing/Wiki/Events/Missing-Riders|missing riders]].
+Both horses and the [[05-Player-Facing/Wiki/People/Wagon-Oxen|wagon oxen]] were tethered to trees before the escorts followed the trail. After leaving the cave, the company checked on them; all were there and okay. Sildar has been rescued; Gundren remains missing, as recorded in [[05-Player-Facing/Wiki/Events/Missing-Riders|the riders' account]].
 
 Back to the [[05-Player-Facing/Wiki/Wiki-Home|Wiki index]].

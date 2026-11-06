@@ -6,7 +6,7 @@ status: final
 audience: player
 tags: [type/npc, status/final, spoiler/player-safe]
 created: 2026-10-25
-updated: 2026-10-28
+updated: 2026-11-05
 ---
 
 # Gundren Rockseeker
@@ -21,5 +21,7 @@ He rode ahead with [[05-Player-Facing/Wiki/People/Sildar-Hallwinter|Sildar Hallw
 The escorts do not know where Gundren is now. At the ambush site, a horse said that Sildar and "the dwarf" had been taken into the forest; that testimony is a lead, not confirmation of where Gundren is.
 
 Related: [[05-Player-Facing/Wiki/Affairs/Wagon-Escort-Job|The escort job]] · [[05-Player-Facing/Wiki/Events/Missing-Riders|The missing riders]].
+
+Sildar has since been found alive in the cave. He mentioned [[05-Player-Facing/Wiki/Lore/Gundrens-Map|Gundren's map]], but the escorts did not ask further. Gundren and the map remain missing; no destination or current captor is established here.
 
 Back to the [[05-Player-Facing/Wiki/Wiki-Home|Wiki index]].

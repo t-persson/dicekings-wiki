@@ -6,7 +6,7 @@ status: final
 audience: player
 tags: [type/monster, status/final, spoiler/player-safe]
 created: 2026-10-25
-updated: 2026-10-28
+updated: 2026-11-05
 ---
 
 # Goblins
@@ -22,8 +22,10 @@ Four sprang the roadside ambush from the brush. Three fell; the fourth escaped i
 
 Inside the cave, goblins released two floods. The escorts fought goblins and wolves deeper inside, then fought a [[05-Player-Facing/Wiki/People/Cave-Bugbear|bugbear]] and goblins in another room. One goblin escaped down a trash chute; another was felled after knocking Tyr down.
 
-After crossing the bridge, Rolph spotted a goblin boss in another cave and returned to warn Tyr. Tyr's arrow missed; initiative has been rolled, with the encounter still unresolved. The escorts do not know what these goblins call themselves or what they want.
+After crossing the bridge, the escorts fought in a den with two goblin bosses. One felled Tyr; the other held [[05-Player-Facing/Wiki/People/Sildar-Hallwinter|Sildar]] over a ledge and tried to parley. The party ignored the attempt, and the boss dropped him. Sildar nearly died but survived. Rolph was also felled; both he and Tyr were helped up. Skarn killed many smaller goblins and both bosses.
 
-Related: [[05-Player-Facing/Wiki/Journal/Session-01|the roadside account]] · [[05-Player-Facing/Wiki/Journal/Session-02|the cave account]].
+Sildar later spoke about [[05-Player-Facing/Wiki/People/Elongated-Head-Goblin|a goblin with an elongated head]]. That report does not identify either of the bosses the escorts fought, whose names remain unknown.
+
+Related: [[05-Player-Facing/Wiki/Journal/Session-01|the roadside account]] · [[05-Player-Facing/Wiki/Journal/Session-02|the cave account]] · [[05-Player-Facing/Wiki/Journal/Session-03|the den fight]].
 
 Back to the [[05-Player-Facing/Wiki/Wiki-Home|Wiki index]].

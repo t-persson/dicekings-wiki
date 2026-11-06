@@ -6,7 +6,7 @@ status: final
 audience: player
 tags: [type/monster, status/final, spoiler/player-safe]
 created: 2026-10-25
-updated: 2026-10-28
+updated: 2026-11-05
 ---
 
 # Wagon Oxen
@@ -16,6 +16,6 @@ updated: 2026-10-28
 
 Two oxen pull the supply wagon entrusted to the escorts by [[05-Player-Facing/Wiki/People/Gundren-Rockseeker|Gundren Rockseeker]]. Rolph handled the reins on the journey from [[05-Player-Facing/Wiki/Locations/Neverwinter|Neverwinter]].
 
-After the roadside ambush, the oxen and the [[05-Player-Facing/Wiki/People/Riderless-Horses|horses]] were tethered to trees before the escorts headed into the woods. That is where they were last seen; the [[05-Player-Facing/Wiki/Affairs/Wagon-Escort-Job|delivery]] is still unfinished.
+After the roadside ambush, the oxen and the [[05-Player-Facing/Wiki/People/Riderless-Horses|horses]] were tethered to trees before the escorts headed into the woods. After leaving the cave, the company checked on them; all were there and okay. The [[05-Player-Facing/Wiki/Affairs/Wagon-Escort-Job|delivery]] is still unfinished.
 
 Back to the [[05-Player-Facing/Wiki/Wiki-Home|Wiki index]].
